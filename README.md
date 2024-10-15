@@ -1,5 +1,6 @@
 # MacOS-Dock-for-Framer-react-code-component
 A fully customizable, animated dock component inspired by the macOS dock, ideal for incorporating a smooth and modern navigation element into your designs. Perfect for enhancing the user experience with sleek animations and interactivity.
+<img width="1223" alt="Screenshot 2024-10-13 at 12 58 37 PM" src="https://github.com/user-attachments/assets/8bbd00db-b5e1-4e4c-ac3c-1e3f2298a2ab">
 
 ---
 
@@ -9,7 +10,12 @@ Elevate your designs with this fully customizable, animated floating dock inspir
 
 ## Live Playground
 
+
+https://github.com/user-attachments/assets/7e2c5040-b4c3-4be1-9178-cf8dc6f92772
+
+
 Easily integrate the floating dock into your Framer projects by copying the code component and customizing it to your needs.
+Experience Live: https://www.biswarupmondal.com/macos-dock-for-framer
 
 ### Key Features:
 - **Glassmorphism Effect**: Delivers a modern, frosted glass appearance that blends seamlessly with vibrant backgrounds.
@@ -59,5 +65,7 @@ Each item in the `items` array should follow this structure:
 By integrating this macOS-inspired floating dock into your Framer prototypes, you’ll create a polished user experience while giving your designs a professional, high-end look. The seamless customization options and responsive design make it an ideal component for a variety of digital products.
 
 ### Get Access to the Code
-Want to try it out for yourself? [View the live demo](https://www.biswarupmondal.com/macos-dock-for-framer) and [Access the full code](https://uxbiswarup.gumroad.com/l/macos-style-floating-dock). Start customizing today and bring a sleek, modern dock to your Framer designs!
+Want to try it out for yourself? [View the live demo](https://www.biswarupmondal.com/macos-dock-for-framer) and [Get access to the full code](https://uxbiswarup.gumroad.com/l/macos-style-floating-dock). Start customizing today and bring a sleek, modern dock to your Framer designs!
+
+Support: [Buy Me Coffee](https://buymeacoffee.com/biswarupmondal)
 
